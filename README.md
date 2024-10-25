@@ -63,6 +63,15 @@
   - 📊 Performed supply chain analysis for warehouse management and inventory control with a 3-member team.  
   - 📦 Determined raw material order quantities based on the Minimum Order Quantity (MOQ) to meet client demands.
 
+- **[Optimizing Product Strategy at Maven Market: A Data-Driven Approach](https://github.com/phuthang2003/Optimizing-Product-Strategy-at-Maven-Market-A-Data-Driven-Approach)**  
+  - 📄 Tracking key performance indicators (KPIs) like transactions, profit, revenue, and returns over time, analyzing over 269,000 transactions from a two-year period.  
+  - 💡 Using predictive basket analysis, to analyze patterns of co-occurrence and determine the strength of the link between products purchased together.  
+  - 📈 Suggesting combinations of products to evaluate cross-sell, recommendation system.
+
+- **[IT Industry Analysis Based on Stack Overflow Surveys](https://github.com/phuthang2003/IBM-Data-Analyst-Capstone-Project/tree/main)**  
+  - 📊 This report aims to help identify future IT skills requirement.  
+  - 📦 Insights and trends about the programming laguages, database skills, popular IDEs.
+
 </details>
 
 ---
