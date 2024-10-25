@@ -2,14 +2,14 @@
 
 ### Education
 <details>
-  <summary>Click me</summary>
-<b>Foreign Trade University</b>
-<i>Bachelor of Japanese-Style International Business</i>
+  <summary>Expand</summary>
+Foreign Trade University
+Bachelor of Japanese-Style International Business
 - GPA: 3.71/4.00
 - Awarded two one-semester scholarships for distinguished academic performance and active contribution to extracurricular activities.
 
-<b>U.S. Embassy In Hanoi X CodeGym</b>
-<i>Data Analytics for Beginners</i>
+U.S. Embassy In Hanoi X CodeGym
+Data Analytics for Beginners
 - Awarded certificate of excellence for Promising Project and a scholarship for Python course in CodeGym.
 </details>
   
@@ -17,7 +17,9 @@
 
 
 ### Work Experience
-#### SMARTOSC CORPORATION
+<details>
+  <summary>Expand</summary>
+SMARTOSC CORPORATION
 Sales Operation Intern
 - Handled company payment procedures, ensuring accuracy and timeliness, and closely monitored customer
 payment progress to maintain financial stability.
@@ -26,7 +28,7 @@ improved lead conversion rates.
 - Delivered exceptional customer support by addressing inquiries, resolving issues promptly, and conducting
 payment reminders to enhance client satisfaction and retention.
 
-#### ULTIMATE SUP PTE. LTD.
+ULTIMATE SUP PTE. LTD.
 Lead Data Analyst
 - Built a data pipeline from raw to transformed data using Google Cloud Platform, leading to a 40% increase in query
 performance and enabling more effective data analysis for data-informed decision making.
@@ -35,7 +37,7 @@ performance on e-commerce platforms by 25% and informed strategic decision-makin
 - Automated weekly operation reporting with Python scripts and SQL stored procedures, saving up to 70% of
 working hours previously spent on manual data cleaning and validation.
 
-#### ULTIMATE SUP PTE. LTD.
+ULTIMATE SUP PTE. LTD.
 E-commerce Executive
 - Spearheaded a plan to scale e-commerce operations, resulting in a 150% rise in sales revenue of specific products on
 Shopee Singapore.
@@ -44,11 +46,13 @@ visitors to 1.5x.
 - Based on analysis of historical purchases, recommend cross-selling and bundling strategies, successfully increasing
 up-sell of targeted products to 1.3x and significantly enhancing overall customer satisfaction.
 
-#### HANOITRANS JSC
+HANOITRANS JSC
 Customer Service Coordinator
 - Provided pricing information, answered calls, and addressed inquiries to facilitate bookings.
 - Drafted contracts, arranged vehicles and drivers, and coordinated logistics for efficient pick-ups.
 - Allocated resources and worked with drivers to ensure smooth service delivery.
+  
+</details>
 
 ### Project
 #### [G’CONTEST 2024 || TOP 12: Data Analytics Competition in Finance](https://github.com/phuthang2003/G-Contest-2024-Data-Analytics-In-Finance-and-Banking)
