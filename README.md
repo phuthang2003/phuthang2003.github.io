@@ -12,6 +12,7 @@ Bachelor of Japanese-Style International Business
 #### U.S. Embassy In Hanoi X CodeGym
 Data Analytics for Beginners
 - Awarded certificate of excellence for Promising Project and a scholarship for Python course in CodeGym.
+
 </details>
 
 
