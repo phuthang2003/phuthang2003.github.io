@@ -2,7 +2,7 @@
 
 ### Education
 <details>
-  <summary>Click me</summary>
+<summary>Click me</summary>
   
 #### Foreign Trade University
 Bachelor of Japanese-Style International Business 
