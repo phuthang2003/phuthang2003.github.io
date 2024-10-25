@@ -2,8 +2,8 @@
 
 ### Education
 <details>
-<summary>Click me</summary>
-  
+<summary>Click me</summary><p>
+
 #### Foreign Trade University
 Bachelor of Japanese-Style International Business 
 - GPA: 3.71/4.00
@@ -13,7 +13,9 @@ Bachelor of Japanese-Style International Business
 Data Analytics for Beginners
 - Awarded certificate of excellence for Promising Project and a scholarship for Python course in CodeGym.
 
-</details>
+</p></details>
+  
+
 
 
 ### Work Experience
