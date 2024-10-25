@@ -1,15 +1,15 @@
 # phuthang2003.github.io
 
 ### Education
-<details><summary>Click me</summary><p>
-
-**Foreign Trade University**
-Bachelor of Japanese-Style International Business 
+<details>
+  <summary>Click me</summary><p>
+<b>Foreign Trade University</b>
+<i>Bachelor of Japanese-Style International Business</i>
 - GPA: 3.71/4.00
 - Awarded two one-semester scholarships for distinguished academic performance and active contribution to extracurricular activities.
 
-**U.S. Embassy In Hanoi X CodeGym**
-Data Analytics for Beginners
+<b>U.S. Embassy In Hanoi X CodeGym</b>
+<i>Data Analytics for Beginners</i>
 - Awarded certificate of excellence for Promising Project and a scholarship for Python course in CodeGym.
 
 </p></details>
