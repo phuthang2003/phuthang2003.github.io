@@ -1,6 +1,8 @@
 # phuthang2003.github.io
 
 ### Education
+<details>
+  <summary>Click me</summary>
 #### Foreign Trade University
 Bachelor of Japanese-Style International Business 
 - GPA: 3.71/4.00
@@ -9,6 +11,8 @@ Bachelor of Japanese-Style International Business
 #### U.S. Embassy In Hanoi X CodeGym
 Data Analytics for Beginners
 - Awarded certificate of excellence for Promising Project and a scholarship for Python course in CodeGym.
+</details>
+
 
 ### Work Experience
 #### SMARTOSC CORPORATION
@@ -45,7 +49,7 @@ Customer Service Coordinator
 - Allocated resources and worked with drivers to ensure smooth service delivery.
 
 ### Project
-#### G’CONTEST 2024 || TOP 12: Data Analytics Competition in Finance
+#### [G’CONTEST 2024 || TOP 12: Data Analytics Competition in Finance](https://github.com/phuthang2003/G-Contest-2024-Data-Analytics-In-Finance-and-Banking)
 - Successfully completed a comprehensive business report for Vietnam Semiconductor Industry in the 1st Round,
 identifying key trends and market shifts.
 - Develop a financial analysis report for bank X, assessing loan portfolios, quality, and industry-specific risks, leading
@@ -53,7 +57,7 @@ to tailored interest rate recommendations.
 - Constructed a predictive risk model for customer loans, accurately segmenting customers by risk and loan type,
 achieving a 97% accuracy rate in prediction.
 
-####  SC HACKFEST 2022 || TOP 10: Data Analytics Competition in Supply Chain
+####  [SC HACKFEST 2022 || TOP 10: Data Analytics Competition in Supply Chain](https://github.com/phuthang2003/SCHackfest-2022-Data-Analytics-In-Warehouse-Management)
 - Perform analytical tasks on supply chain cases such as warehouse management, procurement, shipping, and
 inventory control with a 3-member team within a 1- month time frame.
 - Determining the required quantity of 12 raw materials to be ordered based on the Minimum Order Quantity
