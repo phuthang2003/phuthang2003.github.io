@@ -2,7 +2,7 @@
 
 ### Education
 <details>
-  <summary>Click me</summary><p>
+  <summary>Click me</summary>
 <b>Foreign Trade University</b>
 <i>Bachelor of Japanese-Style International Business</i>
 - GPA: 3.71/4.00
@@ -11,8 +11,7 @@
 <b>U.S. Embassy In Hanoi X CodeGym</b>
 <i>Data Analytics for Beginners</i>
 - Awarded certificate of excellence for Promising Project and a scholarship for Python course in CodeGym.
-
-</p></details>
+</details>
   
 
 
