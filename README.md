@@ -3,6 +3,7 @@
 ### Education
 <details>
   <summary>Click me</summary>
+  
 #### Foreign Trade University
 Bachelor of Japanese-Style International Business 
 - GPA: 3.71/4.00
