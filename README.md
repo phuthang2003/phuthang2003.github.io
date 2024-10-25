@@ -1,70 +1,71 @@
-# phuthang2003.github.io
+# **Welcome to My Professional Portfolio** 🌟
 
-### Education
+---
+
+## 🎓 **Education**
 <details>
-  <summary>Expand</summary>
-Foreign Trade University
-Bachelor of Japanese-Style International Business
-- GPA: 3.71/4.00
-- Awarded two one-semester scholarships for distinguished academic performance and active contribution to extracurricular activities.
+  <summary>Click to Expand</summary>
 
-U.S. Embassy In Hanoi X CodeGym
-Data Analytics for Beginners
-- Awarded certificate of excellence for Promising Project and a scholarship for Python course in CodeGym.
-</details>
-  
+- **Foreign Trade University**  
+  *Bachelor of Japanese-Style International Business*  
+  - **GPA:** 3.71 / 4.00  
+  - 🏆 *Awarded two one-semester scholarships for distinguished academic performance and active contribution to extracurricular activities.*
 
+- **U.S. Embassy in Hanoi X CodeGym**  
+  *Data Analytics for Beginners*  
+  - 🏅 *Awarded certificate of excellence for Promising Project and a scholarship for Python course in CodeGym.*
 
-
-### Work Experience
-<details>
-  <summary>Expand</summary>
-SMARTOSC CORPORATION
-Sales Operation Intern
-- Handled company payment procedures, ensuring accuracy and timeliness, and closely monitored customer
-payment progress to maintain financial stability.
-- Participated in verifying and qualifying leads from various sources provided by the sales team, contributing to
-improved lead conversion rates.
-- Delivered exceptional customer support by addressing inquiries, resolving issues promptly, and conducting
-payment reminders to enhance client satisfaction and retention.
-
-ULTIMATE SUP PTE. LTD.
-Lead Data Analyst
-- Built a data pipeline from raw to transformed data using Google Cloud Platform, leading to a 40% increase in query
-performance and enabling more effective data analysis for data-informed decision making.
-- Directed a team of 3 data analysts in performing descriptive analysis using Python and SQL, enhancing sales
-performance on e-commerce platforms by 25% and informed strategic decision-making for operation department.
-- Automated weekly operation reporting with Python scripts and SQL stored procedures, saving up to 70% of
-working hours previously spent on manual data cleaning and validation.
-
-ULTIMATE SUP PTE. LTD.
-E-commerce Executive
-- Spearheaded a plan to scale e-commerce operations, resulting in a 150% rise in sales revenue of specific products on
-Shopee Singapore.
-- Set flash sales, bundles, shop vouchers in product campaigns, increasing sales volume up to 1.2x and product
-visitors to 1.5x.
-- Based on analysis of historical purchases, recommend cross-selling and bundling strategies, successfully increasing
-up-sell of targeted products to 1.3x and significantly enhancing overall customer satisfaction.
-
-HANOITRANS JSC
-Customer Service Coordinator
-- Provided pricing information, answered calls, and addressed inquiries to facilitate bookings.
-- Drafted contracts, arranged vehicles and drivers, and coordinated logistics for efficient pick-ups.
-- Allocated resources and worked with drivers to ensure smooth service delivery.
-  
 </details>
 
-### Project
-#### [G’CONTEST 2024 || TOP 12: Data Analytics Competition in Finance](https://github.com/phuthang2003/G-Contest-2024-Data-Analytics-In-Finance-and-Banking)
-- Successfully completed a comprehensive business report for Vietnam Semiconductor Industry in the 1st Round,
-identifying key trends and market shifts.
-- Develop a financial analysis report for bank X, assessing loan portfolios, quality, and industry-specific risks, leading
-to tailored interest rate recommendations.
-- Constructed a predictive risk model for customer loans, accurately segmenting customers by risk and loan type,
-achieving a 97% accuracy rate in prediction.
+---
 
-####  [SC HACKFEST 2022 || TOP 10: Data Analytics Competition in Supply Chain](https://github.com/phuthang2003/SCHackfest-2022-Data-Analytics-In-Warehouse-Management)
-- Perform analytical tasks on supply chain cases such as warehouse management, procurement, shipping, and
-inventory control with a 3-member team within a 1- month time frame.
-- Determining the required quantity of 12 raw materials to be ordered based on the Minimum Order Quantity
-(MOQ) to meet Festory’s Director’s demands.
+## 💼 **Work Experience**
+<details>
+  <summary>Click to Expand</summary>
+
+- **SMARTOSC Corporation**  
+  *Sales Operation Intern (Sep 2024 - Oct 2024)*  
+  - 📊 Managed payment procedures, ensuring accuracy and timeliness.  
+  - 🛠️ Verified and qualified leads, contributing to improved conversion rates.  
+  - 🤝 Delivered customer support and conducted payment reminders, enhancing client satisfaction.  
+
+- **ULTIMATE SUP PTE. LTD.**  
+  *Data Analyst (Dec 2023 - Aug 2024)*  
+  - 🚀 Built a data pipeline using Google Cloud Platform, improving query performance by 40%.  
+  - 👥 Directed a team of 3 analysts, increasing sales performance by 25% through data-driven insights.  
+  - ⚙️ Automated weekly reports, saving 70% of manual work hours.
+
+  *E-commerce Executive (Aug 2023 - Nov 2023)*  
+  - 📈 Spearheaded scaling of e-commerce operations, increasing sales revenue by 150% on Shopee Singapore.  
+  - 💡 Set up campaigns with flash sales and vouchers, driving sales volume by 1.2x and visitors by 1.5x.  
+  - 🔍 Recommended cross-selling strategies, boosting upsell by 1.3x.
+
+- **HANOITRANS JSC**  
+  *Customer Service Coordinator*  
+  - 📞 Provided pricing info and answered inquiries to facilitate bookings.  
+  - 📝 Drafted contracts and coordinated logistics for efficient pick-ups.  
+  - 🚚 Allocated resources and worked with drivers for smooth service delivery.
+
+</details>
+
+---
+
+## 📊 **Projects**
+<details>
+  <summary>Click to Expand</summary>
+
+- **[G’CONTEST 2024 || TOP 12: Data Analytics Competition in Finance](https://github.com/phuthang2003/G-Contest-2024-Data-Analytics-In-Finance-and-Banking)**  
+  - 📄 Completed a business report for the Vietnam Semiconductor Industry, identifying key trends and market shifts.  
+  - 💡 Developed a financial analysis report for bank X, providing tailored interest rate recommendations.  
+  - 📈 Constructed a predictive risk model with 97% accuracy for customer loans.
+
+- **[SC HACKFEST 2022 || TOP 10: Data Analytics Competition in Supply Chain](https://github.com/phuthang2003/SCHackfest-2022-Data-Analytics-In-Warehouse-Management)**  
+  - 📊 Performed supply chain analysis for warehouse management and inventory control with a 3-member team.  
+  - 📦 Determined raw material order quantities based on the Minimum Order Quantity (MOQ) to meet client demands.
+
+</details>
+
+---
+
+## 📬 **Get in Touch**
+You can find more about me and my work on GitHub or reach out via LinkedIn! 😊
